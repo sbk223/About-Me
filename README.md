@@ -1,4 +1,5 @@
-# About-Me-Objective: To obtain an internship in marketing in order to expand knowledge on business, gain real life experience, and expand my network.
+# About-Me-
+Objective: To obtain an internship in marketing in order to expand knowledge on business, gain real life experience, and expand my network.
 
 EDUCATION
 Lehigh University, Bethlehem, PA- Business degree                    2019-2023
